@@ -1,2 +1,2 @@
 # Projects
- Any coding projects that I have worked on to show interviewrs
+ Any coding projects that I have worked on to show recruiters and interviewers
