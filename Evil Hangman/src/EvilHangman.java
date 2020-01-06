@@ -1,8 +1,8 @@
 import java.util.*;
 
 /**
- * This class is responsible for the logic of Hangman and the AI EvilHangman For
- * more info please read: http://nifty.stanford.edu/2011/schwarz-evil-hangman/
+ * This class is responsible for the logic of Hangman and the AI EvilHangman 
+ * For more info please read: http://nifty.stanford.edu/2011/schwarz-evil-hangman/
  * 
  * @author jasontran
  */
@@ -127,6 +127,7 @@ public class EvilHangman {
 	 * families that match that board character and position exactly
 	 * 
 	 * @param c a letter character to be passed into the function
+	 * @return all the current possibilities the word set can be
 	 */
 	public Map<String, Set<String>> getCurrentPossibilities(char c) {
 		Map<String, Set<String>> currentPossibilities = new TreeMap<String, Set<String>>();
