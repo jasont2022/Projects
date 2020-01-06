@@ -9,7 +9,7 @@ To play the game, download the project folder and run the "Game.java" class. Onc
 # Resources 
 Again here is the website for more information about the Evil Hangman AI: http://nifty.stanford.edu/2011/schwarz-evil-hangman/
 <br /> 
-The wav files in the files folder are youtube videos converted into a wav file format. The original videos can be found here: <br /> 
+The wav files in the files folder are youtube videos converted into a wav file format. The original videos containing these memes can be found here: <br /> 
 https://www.youtube.com/watch?v=-1E10Tbsw68
 <br /> 
 https://www.youtube.com/watch?v=wEbSoki-4XA
