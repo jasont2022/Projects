@@ -7,7 +7,6 @@ import javax.swing.border.LineBorder;
  * extending the JButton class
  * 
  * @author jasontran
- *
  */
 @SuppressWarnings("serial")
 public class MyButton extends JButton {
