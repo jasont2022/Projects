@@ -13,7 +13,6 @@ import java.nio.file.Paths;
  * file and save the current state of the game
  * 
  * @author jasontran
- *
  */
 public class SaveAndLoad {
 	/**
@@ -87,5 +86,4 @@ public class SaveAndLoad {
 			}
 		}
 	}
-
 }
