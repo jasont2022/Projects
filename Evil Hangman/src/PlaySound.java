@@ -19,7 +19,7 @@ public class PlaySound {
 	 * This method helps with reading the file and playing the sound
 	 * 
 	 * @param filePath the location of the sound file
-	 * @throw IllegalArgumentException if musicLocation is null or the file doesn't
+	 * @throw IllegalArgumentException if filePath is null or the filePath doesn't
 	 *        exist
 	 */
 	public static void playSound(String filePath) {
