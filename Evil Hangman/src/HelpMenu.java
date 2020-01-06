@@ -5,7 +5,6 @@ import javax.swing.*;
  * This class is responsible for creating a new help menu by extending JPanel
  * 
  * @author jasontran
- *
  */
 @SuppressWarnings("serial")
 public class HelpMenu extends JPanel {
@@ -32,6 +31,7 @@ public class HelpMenu extends JPanel {
 				+ "Press save button to save the state of the game. "
 				+ "Press load button to load a pervious state of the game from a file. "
 				+ "If you win or lose, press reset to play the game again or exit the game by pressing quit. Enjoy!";
+		
 		JTextArea instructions = new JTextArea(warning + welcome + messageInstructions);
 		instructions.setBounds(150, 140, 500, 265);
 		instructions.setBackground(Color.black);
