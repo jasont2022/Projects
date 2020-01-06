@@ -4,6 +4,7 @@ import java.util.*;
  * This class is responsible for takings words from a file and putting them 
  * into a map and also keeping track of the word lengths, this class
  * is basically an iterator to read from a file
+ *
  * @author jasontran
  */
 public class Words {
@@ -12,6 +13,7 @@ public class Words {
 	/**
 	 * This Constructor takes in all of the words from a file, putting them into a
 	 * map which the keys are words and values are the words' length
+	 *
 	 * @param filePath a file in the files path
 	 * @throws IllegalArgumentException if the filePath is null or does not exist
 	 */
@@ -26,6 +28,7 @@ public class Words {
 	
 	/**
 	 * This method returns a wordMap for testing purposes
+	 *
 	 * @return a wordMap
 	 */
 	public Map<String, Integer> getWordMap() {
@@ -34,6 +37,7 @@ public class Words {
 	
 	/**
 	 * This method determines if the words have the wordLength desired
+	 *
 	 * @param wordLength an integer denoting a word length
 	 * @return true if there are words of a wordLength
 	 * 		   false otherwise
@@ -44,6 +48,7 @@ public class Words {
 	
 	/**
 	 * This method generates a set of words of the wordLength desired
+	 *
 	 * @param wordLength  an integer denoting a word length
 	 * @return a Set of words of that word length
 	 */
