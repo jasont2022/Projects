@@ -6,10 +6,9 @@ import java.util.Iterator;
 import java.util.NoSuchElementException;
 
 /**
- * This class uses a BufferedReader to read in lines
- * of words for the EvilHangman AI 
- * reads a line whenever the next() method is called
- * where the line is a word
+ * This class uses a BufferedReader to read in lines of words for the EvilHangman AI 
+ * Reads a line whenever the next() method is called where the line is a word
+ *
  * @author jasontran
  */
 public class WordScanner implements Iterator<String>{
@@ -18,7 +17,6 @@ public class WordScanner implements Iterator<String>{
 	
 	/**
 	 * Creates a WordScanner for the file located at filePath 
-	 *
 	 * If an IOException is thrown by the BufferedReader or FileReader, then set
 	 * next to null.
 	 *
@@ -43,7 +41,6 @@ public class WordScanner implements Iterator<String>{
 	/**
 	 * Returns true if there are lines left to read in the file, and false
 	 * otherwise.
-	 * 
 	 * If there are no more lines left, this method should close the BuffereReader
 	 *
 	 * @return a boolean indicating whether the WordScanner can produce another
@@ -63,11 +60,10 @@ public class WordScanner implements Iterator<String>{
 	
 	/**
 	 * Returns the next line from the file, or throws a NoSuchElementException if
-	 * there are no more strings left to return (i.e. hasNext() is false).
-	 * 
-	 * This method also advances the iterator in preparation for another invocation.
+	 * there are no more strings left to return (i.e. hasNext() is false)
+	 * This method also advances the iterator in preparation for another invocation
 	 * If an IOException is thrown during this process, the subsequent call should
-	 * return null.
+	 * return null
 	 *
 	 * @return the next line in the file
 	 * @throws NoSuchElementException if there is no more data in the file
