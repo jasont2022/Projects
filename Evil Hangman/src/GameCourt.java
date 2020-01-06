@@ -9,11 +9,11 @@ import javax.swing.*;
 import javax.swing.plaf.FontUIResource;
 
 /**
- * GameCourt
- * 
  * This class holds the primary game logic for how different objects interact
  * with one another, the layout for an Evil Hangman game, all the game
  * interactions happens here
+ *
+ * @author jasontran
  */
 @SuppressWarnings("serial")
 public class GameCourt extends JPanel {
