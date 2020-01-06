@@ -10,7 +10,6 @@ import javax.swing.*;
  * JPanel
  * 
  * @author jasontran
- *
  */
 @SuppressWarnings("serial")
 public class GameMenu extends JPanel {
@@ -21,7 +20,7 @@ public class GameMenu extends JPanel {
 	private BufferedImage img3; //a third image field
 
 	/**
-	 * This constructor creates a new game menu
+	 * This constructor creates a new game menu and reads in multiple images
 	 */
 	public GameMenu() {
 		setLayout(null); // for setting widget location
