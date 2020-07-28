@@ -1,0 +1,15 @@
+# Eclipse IDE metadata
+.classpath
+.project
+.settings/
+
+# Mac files
+.DS_Store
+.idea/
+
+# vscode
+.settings/
+.vscode/
+bin/
+.classpath
+.project
