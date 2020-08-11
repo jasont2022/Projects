@@ -1,23 +1,58 @@
+<!-- PROJECT SHIELDS -->
+<!--
+*** Using markdown "reference style" links for readability.
+*** Reference links are enclosed in brackets [ ] instead of parentheses ( ).
+*** See the bottom of this document for the declaration of the reference variables
+-->
 [![Contributors][contributors-shield]][contributors-url]
 [![Watchers][watchers-shield]][watchers-url]
 [![Forks][forks-shield]][forks-url]
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 ![README Checker](https://github.com/jasont2022/evil-hangman/workflows/README%20URL%20Checker/badge.svg)
+[![MIT License][license-shield]][license-url]
 [![LinkedIn][linkedin-shield]][linkedin-url]
 
-# Evil Hangman
-Ever wonder how Hangman is pretty easy to beat? Let's make an AI for Hangman that tries to beat the player by cheating! The AI will cheat during the game by commiting to a set of words instead of a single word. Thus, the AI will gather information based on the character input and calculates steps ahead to beat its opponent, pretty clever and evil! This coding project is an implementation of the Evil Hangman assignment with additional Java Swing GUI. More details about the homework assignment and the Evil Hangman AI can be found with the link: http://nifty.stanford.edu/2011/schwarz-evil-hangman/ 
+
+
+<!-- PROJECT LOGO -->
+<br />
+<p align="center">
+  <a href="https://github.com/jasont2022/evil-hangman">
+    <img src="images/logo.png" alt="Logo" width="80" height="80">
+  </a>
+
+  <h3 align="center">Evil-Hangman</h3>
+
+  <p align="center">
+    A Hangman game with an evil AI, implemented in the Java programming language
+    <br />
+    <a href="https://github.com/jasont2022/evil-hangman"><strong>Explore the docs »</strong></a>
+    <br />
+    <br />
+    <a href="https://github.com/jasont2022/evil-hangman">View Demo</a>
+    ·
+    <a href="https://github.com/jasont2022/evil-hangman/issues">Report Bug</a>
+    ·
+    <a href="https://github.com/jasont2022/evil-hangman/issues">Request Feature</a>
+  </p>
+</p>
 
 ## Table of Contents
+* [About](#about)
 * [Motivation](#motivation)
 * [Technologies](#technologies)
 * [Features](#features)
 * [Getting Started](#getting-started)
+  * [Prerequisites](#prerequisites)
+  * [Installation](#installation)
 * [Instructions](#instructions)
 * [Contribute](#contribute)
 * [Credits](#credits)
 * [License](#license)
+
+## About
+Ever wonder how Hangman is pretty easy to beat? Let's make an AI for Hangman that tries to beat the player by cheating! The AI will cheat during the game by commiting to a set of words instead of a single word. Thus, the AI will gather information based on the character input and calculates steps ahead to beat its opponent, pretty clever and evil! This coding project is an implementation of the Evil Hangman assignment with additional Java Swing GUI. More details about the homework assignment and the Evil Hangman AI can be found with the link: http://nifty.stanford.edu/2011/schwarz-evil-hangman/
 
 ## Motivation
 
@@ -37,6 +72,13 @@ This project has the following features:
 * Resetting game
 
 ## Getting Started
+### Prerequisites
+
+### Installation
+1. Clone the repo
+```bash
+$ git clone https://github.com/github_username/repo.git
+```
 
 ## Instructions
 To play the game, download the project folder and run the "Game.java" class. Once the game is loaded please press the "Help" button to read the instructions or read the instructions itself in the "HelpMenu.java" class. During the game, there will be audio sounds that are played, which are memes! Yes, there will be memes played during the game. If you don't want to hear the memes, please turn off your volume or comment the code section off in the paintComponent function of the "GameCourt.java" class. More information to play the game can be found in the "HelpMenu.java" class.
@@ -55,6 +97,7 @@ https://www.youtube.com/watch?v=wEbSoki-4XA
 Thanks for taking a look and hope you enjoy!
 
 ## License
+Distributed under the MIT License. See `LICENSE` for more information.
 
 <!-- Links -->
 [contributors-shield]: https://img.shields.io/github/contributors/jasont2022/evil-hangman.svg?color=brightgreen&style=flat-square
@@ -67,5 +110,7 @@ Thanks for taking a look and hope you enjoy!
 [stars-url]: https://github.com/jasont2022/evil-hangman/stargazers
 [issues-shield]: https://img.shields.io/github/issues/jasont2022/evil-hangman?color=success&style=flat-square
 [issues-url]: https://github.com/jasont2022/evil-hangman/issues
+[license-shield]: https://img.shields.io/github/license/jasont2022/evil-hangman.svg?style=flat-square
+[license-url]: https://github.com/jasont2022/evil-hangman/blob/master/LICENSE.md
 [linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=flat-square&logo=linkedin&colorB=555
 [linkedin-url]: https://linkedin.com/in/jasontran2022
