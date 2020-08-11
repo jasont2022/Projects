@@ -75,7 +75,7 @@ This project has the following features:
 ## Getting Started
 Here are the following steps below to get started with the game:
 ### Prerequisites
-
+Have Java and a Java IDE installed in your computer
 ### Installation
 1. Clone the repo
 ```bash
@@ -83,7 +83,17 @@ $ git clone https://github.com/github_username/repo.git
 ```
 
 ## Instructions
-To play the game, download the project folder and run the "Game.java" class. Once the game is loaded please press the "Help" button to read the instructions or read the instructions itself in the "HelpMenu.java" class. During the game, there will be audio sounds that are played, which are memes! Yes, there will be memes played during the game. If you don't want to hear the memes, please turn off your volume or comment the code section off in the paintComponent function of the "GameCourt.java" class. More information to play the game can be found in the "HelpMenu.java" class.
+To play the game follow the steps below:
+1. Follow instructions on [Getting Started](#getting-started) if you haven't already
+2. Run `Game.java` on an IDE or on the command line:
+
+   ```bash
+   $ javac Game.java
+   $ java Game
+   ```
+3. You should see the following menu once the game is booted:
+4. Once the game is loaded please press the "Help" button to read the instructions or read the instructions itself in the `HelpMenu.java` 
+5. During the game, there will be audio sounds that are played, which are memes! Yes, there will be memes played during the game. If you don't want to hear the memes, please turn off your volume or comment the code section off in the paintComponent function of the "GameCourt.java" class. More information to play the game can be found in the "HelpMenu.java" class.
 
 ## Source Code Links
 The links down below are shortcuts to access the source code in this repo:
