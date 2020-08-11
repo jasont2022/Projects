@@ -30,8 +30,6 @@
     <a href="https://github.com/jasont2022/evil-hangman"><strong>Explore the docs »</strong></a>
     <br />
     <br />
-    <a href="https://github.com/jasont2022/evil-hangman">View Demo</a>
-    ·
     <a href="https://github.com/jasont2022/evil-hangman/issues">Report Bug</a>
     ·
     <a href="https://github.com/jasont2022/evil-hangman/issues">Request Feature</a>
