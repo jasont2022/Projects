@@ -19,7 +19,7 @@
 <br />
 <p align="center">
   <a href="https://github.com/jasont2022/evil-hangman">
-    <img src="images/logo.png" alt="Logo" width="80" height="80">
+    <img src="files/troll2.png" alt="Logo" width="80" height="80">
   </a>
 
   <h3 align="center">Evil-Hangman</h3>
@@ -47,6 +47,7 @@
   * [Prerequisites](#prerequisites)
   * [Installation](#installation)
 * [Instructions](#instructions)
+* [Source Code Links](#source-code-links)
 * [Contribute](#contribute)
 * [Credits](#credits)
 * [License](#license)
@@ -59,9 +60,9 @@ Ever wonder how Hangman is pretty easy to beat? Let's make an AI for Hangman tha
 ## Technologies
 This project is created with the following:
 * Java
-* Java Swing \(Java's GUI Library\)
+* Java Swing
 * Java I/O
-* Java Collections Library
+* [Java Collections Library](https://docs.oracle.com/javase/7/docs/api/java/util/Collections.html)
 * JUnit 4 \(for testing\)
 * Image & Audio files \(linked in [Credits](#credits) section\)
 
@@ -72,6 +73,7 @@ This project has the following features:
 * Resetting game
 
 ## Getting Started
+Here are the following steps below to get started with the game:
 ### Prerequisites
 
 ### Installation
@@ -82,6 +84,9 @@ $ git clone https://github.com/github_username/repo.git
 
 ## Instructions
 To play the game, download the project folder and run the "Game.java" class. Once the game is loaded please press the "Help" button to read the instructions or read the instructions itself in the "HelpMenu.java" class. During the game, there will be audio sounds that are played, which are memes! Yes, there will be memes played during the game. If you don't want to hear the memes, please turn off your volume or comment the code section off in the paintComponent function of the "GameCourt.java" class. More information to play the game can be found in the "HelpMenu.java" class.
+
+## Source Code Links
+The links down below are shortcuts to access the source code in this repo:
 
 ## Contribute
 
@@ -97,7 +102,7 @@ https://www.youtube.com/watch?v=wEbSoki-4XA
 Thanks for taking a look and hope you enjoy!
 
 ## License
-Distributed under the MIT License. See `LICENSE` for more information.
+Distributed under the MIT License. See `LICENSE.md` for more information.
 
 <!-- Links -->
 [contributors-shield]: https://img.shields.io/github/contributors/jasont2022/evil-hangman.svg?color=brightgreen&style=flat-square
