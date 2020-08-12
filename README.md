@@ -10,7 +10,6 @@
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 ![README Checker](https://github.com/jasont2022/evil-hangman/workflows/README%20URL%20Checker/badge.svg)
-[![MIT License][license-shield]][license-url]
 [![LinkedIn][linkedin-shield]][linkedin-url]
 
 
@@ -109,9 +108,6 @@ https://www.youtube.com/watch?v=wEbSoki-4XA
 <br /> 
 Thanks for taking a look and hope you enjoy!
 
-## License
-Distributed under the MIT License. See `LICENSE.md` for more information.
-
 <!-- Links -->
 [contributors-shield]: https://img.shields.io/github/contributors/jasont2022/evil-hangman.svg?color=brightgreen&style=flat-square
 [contributors-url]: https://github.com/jasont2022/evil-hangman/graphs/contributors
@@ -123,7 +119,5 @@ Distributed under the MIT License. See `LICENSE.md` for more information.
 [stars-url]: https://github.com/jasont2022/evil-hangman/stargazers
 [issues-shield]: https://img.shields.io/github/issues/jasont2022/evil-hangman?color=success&style=flat-square
 [issues-url]: https://github.com/jasont2022/evil-hangman/issues
-[license-shield]: https://img.shields.io/github/license/jasont2022/evil-hangman.svg?style=flat-square
-[license-url]: https://github.com/jasont2022/evil-hangman/blob/master/LICENSE.md
 [linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=flat-square&logo=linkedin&colorB=555
 [linkedin-url]: https://linkedin.com/in/jasontran2022
