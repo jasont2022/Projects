@@ -10,6 +10,7 @@
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 ![README Checker](https://github.com/jasont2022/evil-hangman/workflows/README%20URL%20Checker/badge.svg)
+[![MIT License][license-shield]][license-url]
 [![LinkedIn][linkedin-shield]][linkedin-url]
 
 
@@ -47,6 +48,7 @@
 * [Source Code Links](#source-code-links)
 * [Contribute](#contribute)
 * [Credits](#credits)
+* [License](#license)
 
 ## About
 Ever wonder how Hangman is pretty easy to beat? Let's make an AI for Hangman that tries to beat the player by cheating! The AI will cheat during the game by commiting to a set of words instead of a single word. Thus, the AI will gather information based on the character input and calculates steps ahead to beat its opponent, pretty clever and evil! This coding project is an implementation of the Evil Hangman assignment with additional Java Swing GUI. More details about the homework assignment and the Evil Hangman AI can be found with the link: http://nifty.stanford.edu/2011/schwarz-evil-hangman/
@@ -107,6 +109,9 @@ https://www.youtube.com/watch?v=wEbSoki-4XA
 <br /> 
 Thanks for taking a look and hope you enjoy!
 
+## License
+This repository is released under the [MIT license](https://github.com/jasont2022/evil-hangman/blob/master/LICENSE.md). In short, this means you are free to use this software in any personal, open-source or commercial projects. Attribution is optional but appreciated.
+
 <!-- Links -->
 [contributors-shield]: https://img.shields.io/github/contributors/jasont2022/evil-hangman.svg?color=brightgreen&style=flat-square
 [contributors-url]: https://github.com/jasont2022/evil-hangman/graphs/contributors
@@ -118,5 +123,7 @@ Thanks for taking a look and hope you enjoy!
 [stars-url]: https://github.com/jasont2022/evil-hangman/stargazers
 [issues-shield]: https://img.shields.io/github/issues/jasont2022/evil-hangman?color=success&style=flat-square
 [issues-url]: https://github.com/jasont2022/evil-hangman/issues
+[license-shield]: https://img.shields.io/github/license/jasont2022/evil-hangman.svg?style=flat-square
+[license-url]: https://github.com/jasont2022/evil-hangman/blob/master/LICENSE.md
 [linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=flat-square&logo=linkedin&colorB=555
 [linkedin-url]: https://linkedin.com/in/jasontran2022
