@@ -47,7 +47,6 @@
 * [Source Code Links](#source-code-links)
 * [Contribute](#contribute)
 * [Credits](#credits)
-* [License](#license)
 
 ## About
 Ever wonder how Hangman is pretty easy to beat? Let's make an AI for Hangman that tries to beat the player by cheating! The AI will cheat during the game by commiting to a set of words instead of a single word. Thus, the AI will gather information based on the character input and calculates steps ahead to beat its opponent, pretty clever and evil! This coding project is an implementation of the Evil Hangman assignment with additional Java Swing GUI. More details about the homework assignment and the Evil Hangman AI can be found with the link: http://nifty.stanford.edu/2011/schwarz-evil-hangman/
