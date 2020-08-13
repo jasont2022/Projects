@@ -13,7 +13,8 @@
 [![MIT License][license-shield]][license-url]
 [![LinkedIn][linkedin-shield]][linkedin-url]
 
-
+# Project Status
+**Currently working on README, Wiki, Contributing, almost finished**
 
 <!-- PROJECT LOGO -->
 <br />
