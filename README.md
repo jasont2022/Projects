@@ -39,13 +39,12 @@
 
 ## Table of Contents
 * [About](#about)
-* [Motivation](#motivation)
 * [Technologies](#technologies)
 * [Features](#features)
 * [Getting Started](#getting-started)
   * [Prerequisites](#prerequisites)
   * [Installation](#installation)
-* [Instructions](#instructions)
+  * [Game Instructions](#game-instructions)
 * [Source Code Links](#source-code-links)
 * [Contribute](#contribute)
 * [Credits](#credits)
@@ -53,8 +52,6 @@
 
 ## About
 Ever wonder how Hangman is pretty easy to beat? Let's make an AI for Hangman that tries to beat the player by cheating! The AI will cheat during the game by commiting to a set of words instead of a single word. Thus, the AI will gather information based on the character input and calculates steps ahead to beat its opponent, pretty clever and evil! This coding project is an implementation of the Evil Hangman assignment with additional Java Swing GUI. More details about the homework assignment and the Evil Hangman AI can be found with the link: http://nifty.stanford.edu/2011/schwarz-evil-hangman/
-
-## Motivation
 
 ## Technologies
 This project is created with the following:
@@ -78,10 +75,9 @@ Have Java and a Java IDE installed in your computer
 ### Installation
 1. Clone the repo
 ```bash
-$ git clone https://github.com/github_username/repo.git
+$ git clone https://github.com/jasont2022/evil-hangman
 ```
-
-## Instructions
+### Game Instructions
 To play the game follow the steps below:
 1. Follow instructions on [Getting Started](#getting-started) if you haven't already
 2. Run `Game.java` on an IDE or on the command line:
@@ -98,6 +94,7 @@ To play the game follow the steps below:
 The links down below are shortcuts to access the source code in this repo:
 
 ## Contribute
+Contributions are what make the open source community such an amazing place to learn, inspire, develop, and promote intellectual discussions. This repository aims to be contribution friendly and any contributions you make are greatly appreciated. Please be sure to check out the wiki on guidelines and instructions before contributing to this repository.
 
 ## Credits
 Again here is the website for more information about the Evil Hangman AI: http://nifty.stanford.edu/2011/schwarz-evil-hangman/
@@ -111,7 +108,7 @@ https://www.youtube.com/watch?v=wEbSoki-4XA
 Thanks for taking a look and hope you enjoy!
 
 ## License
-This repository is released under the [MIT license](https://github.com/jasont2022/evil-hangman/blob/master/LICENSE.md). In short, this means you are free to use this software in any personal, open-source or commercial projects. Attribution is optional but appreciated.
+This repository is released under the [MIT license][license-url]. In short, you are free to use this software in any personal, open-source or commercial projects. See `LICENSE.md` or the [opensource MIT license](https://opensource.org/licenses/MIT) for more information.
 
 <!-- Links -->
 [contributors-shield]: https://img.shields.io/github/contributors/jasont2022/evil-hangman.svg?color=brightgreen&style=flat-square
