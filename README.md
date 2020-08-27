@@ -94,7 +94,7 @@ To play the game follow the steps below:
 The links down below are shortcuts to access the source code in this repo:
 
 ## Contribute
-Contributions are what make the open source community such an amazing place to learn, inspire, develop, and promote intellectual discussions. This repository aims to be contribution friendly and any contributions you make are greatly appreciated. Please be sure to check out the wiki on guidelines and instructions before contributing to this repository.
+Contributions are what make the open source community such an amazing place to learn, inspire, develop, and promote intellectual discussions. This repository aims to be contribution friendly and any contributions you make are **greatly appreciated**. Please be sure to check out the wiki on guidelines and instructions before contributing to this repository.
 
 ## Credits
 Again here is the website for more information about the Evil Hangman AI: http://nifty.stanford.edu/2011/schwarz-evil-hangman/
@@ -108,7 +108,7 @@ https://www.youtube.com/watch?v=wEbSoki-4XA
 Thanks for taking a look and hope you enjoy!
 
 ## License
-This repository is released under the [MIT license][license-url]. In short, you are free to use this software in any personal, open-source or commercial projects. See `LICENSE.md` or the [opensource MIT license](https://opensource.org/licenses/MIT) for more information.
+This repository is released under the [MIT license][license-url]. In short, you are free to use this software in any personal, open-source or commercial projects. See `LICENSE.md` or the [opensource website](https://opensource.org/licenses/MIT) for more information.
 
 <!-- Links -->
 [contributors-shield]: https://img.shields.io/github/contributors/jasont2022/evil-hangman.svg?color=brightgreen&style=flat-square
