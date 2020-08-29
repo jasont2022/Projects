@@ -10,7 +10,7 @@
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 ![README Checker](https://github.com/jasont2022/evil-hangman/workflows/README%20URL%20Checker/badge.svg)
-[![MIT License][license-shield]][license-url]
+[![Apache License][license-shield]][license-url]
 [![LinkedIn][linkedin-shield]][linkedin-url]
 
 # Project Status
@@ -69,10 +69,13 @@ This project has the following features:
 
 ## Getting Started
 Here are the following steps below to get started with the game:
+
 ### Prerequisites
 Have Java and a Java IDE installed in your computer
+
 ### Installation
 1. Clone the repo
+
 ```bash
 $ git clone https://github.com/jasont2022/evil-hangman
 ```
@@ -85,6 +88,7 @@ To play the game follow the steps below:
    $ javac Game.java
    $ java Game
    ```
+
 3. You should see the following menu once the game is booted:
 4. Once the game is loaded please press the "Help" button to read the instructions or read the instructions itself in the `HelpMenu.java` 
 5. During the game, there will be audio sounds that are played, which are memes! Yes, there will be memes played during the game. If you don't want to hear the memes, please turn off your volume or comment the code section off in the paintComponent function of the "GameCourt.java" class. More information to play the game can be found in the "HelpMenu.java" class.
@@ -109,7 +113,25 @@ https://www.youtube.com/watch?v=wEbSoki-4XA
 Thanks for taking a look and hope you enjoy!
 
 ## License
-This repository is released under the [MIT license][license-url]. In short, you are free to use this software in any personal, open-source or commercial projects. See `LICENSE.md` or the [opensource website](https://opensource.org/licenses/MIT) for more information.
+This repository is released under the [Apache 2.0 License][license-url]. 
+
+```license
+Copyright 2020 Jason Tran
+
+Licensed under the Apache License, Version 2.0 (the "License");
+you may not use this file except in compliance with the License.
+You may obtain a copy of the License at
+
+    http://www.apache.org/licenses/LICENSE-2.0
+
+Unless required by applicable law or agreed to in writing, software
+distributed under the License is distributed on an "AS IS" BASIS,
+WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
+See the License for the specific language governing permissions and
+limitations under the License.
+```
+
+See `LICENSE.md` or the [Apache website](http://www.apache.org/licenses/LICENSE-2.0) for more information.
 
 <!-- Links -->
 [contributors-shield]: https://img.shields.io/github/contributors/jasont2022/evil-hangman.svg?color=brightgreen&style=flat-square
