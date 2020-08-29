@@ -144,7 +144,7 @@ See `LICENSE.md` or the [Apache website](http://www.apache.org/licenses/LICENSE-
 [stars-url]: https://github.com/jasont2022/evil-hangman/stargazers
 [issues-shield]: https://img.shields.io/github/issues/jasont2022/evil-hangman?color=success&style=flat-square
 [issues-url]: https://github.com/jasont2022/evil-hangman/issues
-[license-shield]: https://img.shields.io/github/license/jasont2022/evil-hangman.svg?style=flat-square
+[license-shield]: https://img.shields.io/github/license/jasont2022/evil-hangman?style=flat-square
 [license-url]: https://github.com/jasont2022/evil-hangman/blob/master/LICENSE.md
 [linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=flat-square&logo=linkedin&colorB=555
 [linkedin-url]: https://linkedin.com/in/jasontran2022
