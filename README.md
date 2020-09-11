@@ -13,9 +13,6 @@
 [![Apache License][license-shield]][license-url]
 [![LinkedIn][linkedin-shield]][linkedin-url]
 
-# Project Status
-**Currently working on README, Wiki, Contributing, almost finished**
-
 <!-- PROJECT LOGO -->
 <br />
 <p align="center">
@@ -50,22 +47,26 @@
 * [License](#license)
 
 ## About
-Ever wonder how Hangman is pretty easy to beat? Let's make an AI for Hangman that tries to beat the player by cheating! The AI will cheat during the game by commiting to a set of words instead of a single word. Thus, the AI will gather information based on the character input and calculates steps ahead to beat its opponent, pretty clever and evil! This coding project is an implementation of the Evil Hangman assignment with additional Java Swing GUI. More details about the homework assignment and the Evil Hangman AI can be found with the link: http://nifty.stanford.edu/2011/schwarz-evil-hangman/
+Instead of a traditional single-player Hangman game, this game involves an evil AI that will "cheat" and make it extremely difficult for the player to win. The AI will cheat during the game by commiting to a set of words instead of a single word. Thus, the AI will gather information based on the character input and calculates steps ahead to beat its opponent, pretty clever and evil. This coding project is an implementation of the Evil Hangman assignment with additional Java Swing GUI. Below has the following technologies and features listed. More details about the Evil Hangman AI can be found by [clicking here](http://nifty.stanford.edu/2011/schwarz-evil-hangman/).
 
 ## Technologies
 This project is created with the following:
+
 * Java
 * Java Swing
 * Java I/O
-* [Java Collections Library](https://docs.oracle.com/javase/7/docs/api/java/util/Collections.html)
+* Java Collections Library
 * JUnit 4 \(for testing\)
 * Image & Audio files \(linked in [Credits](#credits) section\)
 
 ## Features
 This project has the following features:
+
 * Save, Load, Reset, and Exit game progress
 * Multiple menus such as Main, Help, and Game 
 * Play audio and music
+* Evilhangman AI
+* Custom UI using Java Swing
 
 ## Getting Started
 Here are the following steps below to get started with the game:
@@ -78,20 +79,20 @@ Have Java and a Java IDE installed in your computer
 
 ```bash
 $ git clone https://github.com/jasont2022/evil-hangman
+$ cd evil-hangman
 ```
 ### Game Instructions
 To play the game follow the steps below:
-1. Follow instructions on [Getting Started](#getting-started) if you haven't already
-2. Run `Game.java` on an IDE or on the command line:
+1. Run `Game.java` on a Java IDE or on the command line:
 
    ```bash
    $ javac Game.java
    $ java Game
    ```
 
-3. You should see the following menu once the game is booted:
-4. Once the game is loaded please press the "Help" button to read the instructions or read the instructions itself in the `HelpMenu.java` 
-5. During the game, there will be audio sounds that are played, which are memes! Yes, there will be memes played during the game. If you don't want to hear the memes, please turn off your volume or comment the code section off in the paintComponent function of the "GameCourt.java" class. More information to play the game can be found in the "HelpMenu.java" class.
+2. You should see the following menu once the game is booted:
+3. Once the game is loaded please press the "Help" button to read the instructions or read the instructions itself in the `HelpMenu.java` 
+4. During the game, there will be audio sounds that are played, which are memes! Yes, there will be memes played during the game. If you don't want to hear the memes, please turn off your volume or comment the code section off in the paintComponent function of the "GameCourt.java" class. More information to play the game can be found in the "HelpMenu.java" class.
 
 ## Links
 Here is a list of useful links related to the project:
@@ -102,15 +103,13 @@ Here is a list of useful links related to the project:
 * Test files: http://github.com/jasont2022/evil-hangman/tree/master/test
 
 ## Credits
-Again here is the website for more information about the Evil Hangman AI: http://nifty.stanford.edu/2011/schwarz-evil-hangman/
-<br /> 
-The wav files in the files folder are youtube videos converted into a wav file format. The original videos containing these memes can be found here: <br /> 
-https://www.youtube.com/watch?v=-1E10Tbsw68
-<br /> 
-https://www.youtube.com/watch?v=wEbSoki-4XA
-<br /> 
-<br /> 
-Thanks for taking a look and hope you enjoy!
+This section is to give attribution and many thanks to the following resources listed below:
+
+* Evil Hangman AI Assigment Website: http://nifty.stanford.edu/2011/schwarz-evil-hangman/
+  * this website was holds the origin assignment of Evil Hangman made by Keith Schwarz
+* Audio samples and music were found in these youtube videos and converted into a wav file format. The original videos containing these memes can be found below: 
+  * Meme Sound Effects 1: https://www.youtube.com/watch?v=-1E10Tbsw68
+  * Meme Sound Effects 2: https://www.youtube.com/watch?v=wEbSoki-4XA
 
 ## License
 This repository is released under the [Apache 2.0 License][license-url]. 
