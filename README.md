@@ -63,9 +63,9 @@ This project is created with the following:
 
 ## Features
 This project has the following features:
-* Save game progress
-* Load pervious game progress
-* Resetting game
+* Save, Load, Reset, and Exit game progress
+* Multiple menus such as Main, Help, and Game 
+* Play audio and music
 
 ## Getting Started
 Here are the following steps below to get started with the game:
@@ -98,8 +98,8 @@ Here is a list of useful links related to the project:
 
 * Repository: http://github.com/jasont2022/evil-hangmanIssue
 * Issue tracker: http://github.com/jasont2022/evil-hangman/issues
-* Source Files: http://github.com/jasont2022/evil-hangman/tree/master/src
-* Test Files: http://github.com/jasont2022/evil-hangman/tree/master/test
+* Source files: http://github.com/jasont2022/evil-hangman/tree/master/src
+* Test files: http://github.com/jasont2022/evil-hangman/tree/master/test
 
 ## Credits
 Again here is the website for more information about the Evil Hangman AI: http://nifty.stanford.edu/2011/schwarz-evil-hangman/
